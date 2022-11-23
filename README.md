@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amit Nepali.</h1>
 <h3 align="center">A passionate web developer from Nepal.</h3>
 
-<img align="center" height="450" width="1200" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif"></img>
+<img align="center" height="440" width="1200" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitnepali&label=Profile%20views&color=0e75b6&style=flat" alt="amitnepali" /> </p>
 
